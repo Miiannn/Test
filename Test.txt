@@ -1,3 +1,7 @@
 Hello world
 change file hahahha
+<<<<<<< HEAD
 go to a board
+=======
+Miian hohoho
+>>>>>>> 0e027d66f9f70fd4517a53db09450939daf65391
